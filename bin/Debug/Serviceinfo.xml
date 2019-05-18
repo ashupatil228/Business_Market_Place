@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfServicesinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Servicesinfo>
+    <ServiceId>S1</ServiceId>
+    <ServiceType>HouseholdItems</ServiceType>
+    <Description>Cloth Stand with 24inch</Description>
+    <Price>10.00</Price>
+    <Location>Wiesloch</Location>
+    <PostedDate>14/06/2018</PostedDate>
+    <PersonId>ashwini@gmail.com</PersonId>
+    <InterestedPersonsEmailId>
+      <string>preethi@gmail.com</string>
+    </InterestedPersonsEmailId>
+  </Servicesinfo>
+  <Servicesinfo>
+    <ServiceId>S3</ServiceId>
+    <ServiceType>Renthouse</ServiceType>
+    <Description>2 room shared appartment</Description>
+    <Price>100.00</Price>
+    <Location>Heidelberg</Location>
+    <PostedDate>14/06/2018</PostedDate>
+    <PersonId>ashwini@gmail.com</PersonId>
+    <InterestedPersonsEmailId />
+  </Servicesinfo>
+  <Servicesinfo>
+    <ServiceId>S4</ServiceId>
+    <ServiceType>Education</ServiceType>
+    <Description>German classes for beginners</Description>
+    <Price>350</Price>
+    <Location>HEidelberg</Location>
+    <PostedDate>14/06/2018</PostedDate>
+    <PersonId>preethi@gmail.com</PersonId>
+    <InterestedPersonsEmailId />
+  </Servicesinfo>
+  <Servicesinfo>
+    <ServiceId>S5</ServiceId>
+    <ServiceType>Electronic_Items</ServiceType>
+    <Description>Dell laptop with intel core i3 500 gb harddisk</Description>
+    <Price>500</Price>
+    <Location>Mannheim</Location>
+    <PostedDate>14/06/2018</PostedDate>
+    <PersonId>preethi@gmail.com</PersonId>
+    <InterestedPersonsEmailId />
+  </Servicesinfo>
+</ArrayOfServicesinfo>

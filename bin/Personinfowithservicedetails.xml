@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfServicesinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Servicesinfo>
+    <ServiceId>S1</ServiceId>
+    <ServiceType>Education</ServiceType>
+    <Description>Good Dance Classes</Description>
+    <Price>250</Price>
+    <Location>Heidelberg</Location>
+    <PostedDate>09/06/2018</PostedDate>
+    <PersonId>ashwini@gmail.com</PersonId>
+    <InterestedPersonsEmailId>
+      <string>ashwini@gmail.com</string>
+      <string>ashwini@gmail.com</string>
+    </InterestedPersonsEmailId>
+  </Servicesinfo>
+</ArrayOfServicesinfo>

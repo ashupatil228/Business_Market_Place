@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPersoninfo_with_service_details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personinfo_with_service_details>
+    <FirstName>Ashwini</FirstName>
+    <LastName>Patil</LastName>
+    <ContactNo>+491234567897</ContactNo>
+    <Email>ashwini@gmail.com</Email>
+    <Password>asd123</Password>
+    <Interested_offers>
+      <string>S5</string>
+    </Interested_offers>
+    <Offered_services>
+      <string>S1</string>
+      <string>S3</string>
+      <string>S5</string>
+    </Offered_services>
+  </Personinfo_with_service_details>
+  <Personinfo_with_service_details>
+    <FirstName>Preethi</FirstName>
+    <LastName>venkateesh</LastName>
+    <ContactNo>+123456789</ContactNo>
+    <Email>preethi@gmail.com</Email>
+    <Password>asd123</Password>
+    <Interested_offers>
+      <string>S1</string>
+      <string>S2</string>
+    </Interested_offers>
+    <Offered_services>
+      <string>S4</string>
+      <string>S5</string>
+    </Offered_services>
+  </Personinfo_with_service_details>
+</ArrayOfPersoninfo_with_service_details>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfServicesinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Servicesinfo>
+    <Id></Id>
+    <ServiceType></ServiceType>
+    <Description></Description>
+    <Price></Price>
+    <Location></Location>
+    <PostedDate></PostedDate>
+    <PersonId></PersonId>
+    <ServiceInterested>
+
+
+    </ServiceInterested>
+  </Servicesinfo>
+</ArrayOfServicesinfo>

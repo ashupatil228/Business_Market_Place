@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfListofServicesOffer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListofServicesOffer>
+  <FirstName>Ashwini</FirstName>
+    <LastName></LastName>
+  <Email>ashwini@gmail.com</Email>
+  <ContactNo>98765432</ContactNo>
+  <ServiceType>Education</ServiceType>
+  <Date>0001-01-01T00:00:00</Date>
+  <Price>10</Price>
+  <Address>asdfghjk</Address>
+  <City>Heidelberg</City>
+  <ServiceDetails>Good </ServiceDetails>
+  </ListofServicesOffer>
+</ArrayOfListofServicesOffer>

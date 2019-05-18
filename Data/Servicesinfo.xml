@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfServicesinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Servicesinfo>
+  <Id></Id>
+  <ServiceType>Education</ServiceType>
+  <Description>Dance Classes</Description>
+  <Price>10</Price>
+  <Location>Heidelberg</Location>
+  <PostedDate>0001-01-01T00:00:00</PostedDate>
+  <PersonId></PersonId>
+  <ServiceInterested>
+    
+    
+  </ServiceInterested>
+  </Servicesinfo>
+</ArrayOfServicesinfo>
